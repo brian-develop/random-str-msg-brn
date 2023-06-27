@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-brn",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brian-develop/random-str-msg-brn.git"
+  },
+  "keywords": [],
+  "author": "Brian Silva Ossandón <bsilvaoss21@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brian-develop/random-str-msg-brn/issues"
+  },
+  "homepage": "https://github.com/brian-develop/random-str-msg-brn#readme",
+  "bin": {
+    "random-str-msg-brn": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
